@@ -1,3 +1,3 @@
-name := "$demo$"
-version := "$0.1.0$"
-scalaVersion := "$2.13.12$"
+name := "demo"
+version := "0.1.0"
+scalaVersion := "2.13.12"
